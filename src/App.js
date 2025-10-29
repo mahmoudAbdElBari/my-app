@@ -1,9 +1,12 @@
 
 function App() {
   return (
-    <div className="App">
-    
-    </div>
+
+    <>
+    <h1 className="linr">train test</h1>
+
+
+    </>
   );
 }
 
